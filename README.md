@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/NilyTnily">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=00FF6A&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Ofek+Ben+David;Aspiring+Penetration+Tester+%E2%9A%94%EF%B8%8F+Security+Analyst;IDF+Combat+Veteran+%E2%86%92+Self-Taught+Hacker;%22Think+like+an+attacker%2C+defend+like+a+pro.%22" alt="Ofek Ben David — Penetration Tester in training" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=00FF6A&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Ofek+Benda;Aspiring+Penetration+Tester+%E2%9A%94%EF%B8%8F+Security+Analyst;IDF+Combat+Veteran+%E2%86%92+Self-Taught+Hacker;%22Think+like+an+attacker%2C+defend+like+a+pro.%22" alt="Ofek Benda — Penetration Tester in training" />
   </a>
 </h1>
 
