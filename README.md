@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/NilyTnily">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF6A&center=true&vCenter=true&width=820&lines=root%40kali%3A~%23+whoami;ofek_ben_david+--+penetration+tester;root%40kali%3A~%23+cat+skills.txt;web_exploitation+%7C+AD_attacks+%7C+malware_analysis;root%40kali%3A~%23+nmap+-sV+target.htb;%5BOpen%5D+443%2Fhttps+%7C+80%2Fhttp+%7C+22%2Fssh;root%40kali%3A~%23+./exploit.py+--pwn" alt="Ofek Ben David — Penetration Tester" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF6A&center=true&vCenter=true&width=750&lines=Ofek+Benda&lines=root%40kali%3A~%23+whoami&lines=ofek_benda+--+pentester&lines=root%40kali%3A~%23+cat+about.txt&lines=Penetration+Tester+%7C+Security+Analyst&lines=IDF+Veteran+%7C+Self-Taught+Hacker&lines=root%40kali%3A~%23+cat+motto.txt&lines=Break+it.+Understand+it.+Secure+it.&lines=root%40kali%3A~%23+_" alt="Ofek Benda — Penetration Tester" />
   </a>
 </h1>
 
