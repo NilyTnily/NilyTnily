@@ -16,7 +16,7 @@
   <a href="https://app.hackthebox.com/users/NilyTnily">
     <img src="https://img.shields.io/badge/Hack_The_Box-NilyTnily-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
   </a>
-  <a href="https://tryhackme.com/p/NilyTnily">
+  <a href="https://tryhackme.com/p/ofekbendavid5082">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
   </a>
   <a href="https://play.picoctf.org/users/BendaZ">
