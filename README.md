@@ -22,9 +22,6 @@
   <a href="https://play.picoctf.org/users/BendaZ">
     <img src="https://img.shields.io/badge/PicoCTF-BendaZ-05C44E?style=for-the-badge&logo=python&logoColor=white" alt="PicoCTF" />
   </a>
-  <a href="https://profile.hackthebox.com/NilyTnily">
-    <img src="https://img.shields.io/badge/HackTheBox-NilyTnily-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=nilytnily&label=Profile%20views&color=00FF6A&style=for-the-badge" alt="Profile views" />
 </p>
 
