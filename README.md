@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://github.com/NilyTnily">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=00FF6A&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Ofek+Benda;Aspiring+Penetration+Tester+%E2%9A%94%EF%B8%8F+Security+Analyst;IDF+Combat+Veteran+%E2%86%92+Self-Taught+Hacker;%22Think+like+an+attacker%2C+defend+like+a+pro.%22" alt="Ofek Benda â Penetration Tester in training" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF6A&center=true&vCenter=true&width=820&lines=root%40kali%3A~%23+whoami;ofek_ben_david+--+penetration+tester;root%40kali%3A~%23+cat+skills.txt;web_exploitation+%7C+AD_attacks+%7C+malware_analysis;root%40kali%3A~%23+nmap+-sV+target.htb;%5BOpen%5D+443%2Fhttps+%7C+80%2Fhttp+%7C+22%2Fssh;root%40kali%3A~%23+./exploit.py+--pwn" alt="Ofek Ben David — Penetration Tester" />
   </a>
 </h1>
 
-<h3 align="center">Aspiring Penetration Tester Â· Security Analyst Â· Hack The Box (In Progress)</h3>
+<h3 align="center">Aspiring Penetration Tester · Security Analyst · Hack The Box</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ofek-ben-david/">
@@ -14,13 +14,13 @@
     <img src="https://img.shields.io/badge/Email-ofekbendavid5082@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://app.hackthebox.com/users/NilyTnily">
-    <img src="https://img.shields.io/badge/Hack_The_Box-In_Progress-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+    <img src="https://img.shields.io/badge/Hack_The_Box-NilyTnily-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
   </a>
   <a href="https://tryhackme.com/p/NilyTnily">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
   </a>
   <a href="https://play.picoctf.org/users/BendaZ">
-    <img src="https://img.shields.io/badge/PicoCTF-BendaZ-05C44E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==&logoColor=white" alt="PicoCTF" />
+    <img src="https://img.shields.io/badge/PicoCTF-BendaZ-05C44E?style=for-the-badge&logo=python&logoColor=white" alt="PicoCTF" />
   </a>
   <a href="https://profile.hackthebox.com/NilyTnily">
     <img src="https://img.shields.io/badge/HackTheBox-NilyTnily-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" />
@@ -30,23 +30,29 @@
 
 ---
 
-## ð¯ About me
+## 🎯 About me
 
-I'm a self-taught security practitioner aiming for **junior penetration testing / security analyst** roles. I'm drawn to the hacker mindset â creative problem-solving, adversarial thinking, and breaking complex systems down into exploitable pieces, then putting them back together stronger.
+I'm a self-taught security practitioner aiming for junior penetration testing / security analyst roles. I'm drawn to the hacker mindset — creative problem-solving, adversarial thinking, and breaking complex systems down into exploitable pieces, then putting them back together stronger.
 
-- ð¡ï¸ **Currently:** Executive Sales Manager at Galor Ltd â sharpening communication, negotiation, and high-pressure decision-making by day; sharpening payloads by night.
-- ðï¸ **Before that:** **Combat Security Operative, Israel Defense Forces (2020â2022)** â strategic night operations, team leadership, tactical decision-making under pressure.
-- ð¬ **Currently learning:** Hack The Box CPTS path Â· web app exploitation Â· Active Directory attacks Â· malware analysis & assembly.
-- ð§ª **Ask me about:** network security Â· malware tooling (botnets, RATs, rootkits) Â· SQL injection Â· digital forensics Â· Splunk threat hunting.
-- ð **Self-directed learner** â every certification on this page was earned outside a classroom.
-- ð **Languages:** Hebrew (native) Â· English (fluent) Â· French (basic).
-- ð« **Reach me:** [ofekbendavid5082@gmail.com](mailto:ofekbendavid5082@gmail.com)
+- 🛡️ **Currently:** Executive Sales Manager at Galor Ltd — sharpening communication, negotiation, and high-pressure decision-making by day; sharpening payloads by night.
 
-> *"Give me a foothold and I'll pivot the network."*
+- 🎖️ **Before that:** **Combat Security Operative, Israel Defense Forces (2020–2022)** — strategic night operations, team leadership, tactical decision-making under pressure.
+
+- 🔬 **Currently learning:** Hack The Box CPTS path · web app exploitation · Active Directory attacks · malware analysis & assembly.
+
+- 🧪 **Ask me about:** network security · malware tooling (botnets, RATs, rootkits) · SQL injection · digital forensics · Splunk threat hunting.
+
+- 📜 **Self-directed learner** — every certification on this page was earned outside a classroom.
+
+- 🌍 **Languages:** Hebrew (native) · English (fluent) · French (basic).
+
+- 📫 **Reach me:** [ofekbendavid5082@gmail.com](mailto:ofekbendavid5082@gmail.com)
+
+> **"Give me a foothold and I'll pivot the network."**
 
 ---
 
-## ð ï¸ Tech & Tools I work with
+## 🛠️ Tech & Tools I work with
 
 **Languages**
 
@@ -110,23 +116,23 @@ I'm a self-taught security practitioner aiming for **junior penetration testing 
 
 ---
 
-## ð Certifications
+## 🏆 Certifications
 
 | Certification | Issuer | Status |
 |---|---|---|
-| **Penetration Testing (CPTS)** | Hack The Box | ð¡ In Progress |
-| Cybersecurity Certificate | Google | â Completed |
-| Malware Analysis & Introduction to Assembly | IBM | â Completed |
-| TCP/IP Networking | Yonsei University | â Completed |
-| Digital Forensics Essentials (DFE) | EC-Council | â Completed |
-| Splunk Search Expert | Splunk | â Completed |
-| Cyber Threat Hunting | Infosec | â Completed |
+| **Penetration Testing (CPTS)** | Hack The Box | ⚔️ Active |
+| Cybersecurity Certificate | Google | ✅ Completed |
+| Malware Analysis & Introduction to Assembly | IBM | ✅ Completed |
+| TCP/IP Networking | Yonsei University | ✅ Completed |
+| Digital Forensics Essentials (DFE) | EC-Council | ✅ Completed |
+| Splunk Search Expert | Splunk | ✅ Completed |
+| Cyber Threat Hunting | Infosec | ✅ Completed |
 
-> All certifications were completed through **self-directed learning** â independent study, hands-on labs, and personal research.
+> All certifications were completed through **self-directed learning** — independent study, hands-on labs, and personal research.
 
 ---
 
-## ð GitHub stats
+## 📊 GitHub stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=NilyTnily&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" alt="Ofek's GitHub stats" />
@@ -145,5 +151,5 @@ I'm a self-taught security practitioner aiming for **junior penetration testing 
 
 <p align="center">
   <i>"The quieter you become, the more you are able to hear."</i><br/>
-  â <b>Kali Linux motto</b>
+  — <b>Kali Linux motto</b>
 </p>
