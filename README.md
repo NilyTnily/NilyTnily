@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">Aspiring Penetration Tester · Security Analyst · </h3>
+<h3 align="center">Aspiring Penetration Tester · Security Analyst  </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ofek-ben-david/">
